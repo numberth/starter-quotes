@@ -12,4 +12,10 @@
 **Date:** Jan. 19th, 2017
 **Author:** Eva Y.*[Captain]*
 **Entries:**
+- Added Tooltip functionality
+
+## Entry:
+**Date:** Jan. 19th, 2017
+**Author:** Eva Y.*[Captain]*
+**Entries:**
 - Added Change Log
