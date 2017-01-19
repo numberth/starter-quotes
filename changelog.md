@@ -10,6 +10,12 @@
 
 ## Entry:
 **Date:** Jan. 19th, 2017
+**Author:** Trista H.*[First Mate]*
+**Entries:**
+- Added burger cat picture and quote
+
+## Entry:
+**Date:** Jan. 19th, 2017
 **Author:** Eva Y.*[Captain]*
 **Entries:**
 - Added Change Log
